@@ -2,5 +2,21 @@
     {
         "package": "openxlsx2",
         "url": "https://github.com/JanMarvin/openxlsx2"
+    },
+    {
+        "package": "readspss",
+        "url": "https://github.com/JanMarvin/readspss"
+    },
+    {
+        "package": "nlsur",
+        "url": "https://github.com/JanMarvin/nlsur"
+    },
+    {
+        "package": "diffr2",
+        "url": "https://github.com/JanMarvin/diffr2"
+    },
+    {
+        "package": "readsas",
+        "url": "https://github.com/JanMarvin/readsas"
     }
 ]
