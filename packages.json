@@ -4,6 +4,10 @@
         "url": "https://github.com/JanMarvin/openxlsx2"
     },
     {
+        "package": "msoc",
+        "url": "https://github.com/JanMarvin/msoc"
+    },
+    {
         "package": "readspss",
         "url": "https://github.com/JanMarvin/readspss"
     },
