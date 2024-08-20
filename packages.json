@@ -20,6 +20,10 @@
         "url": "https://github.com/JanMarvin/diffr2"
     },
     {
+        "package": "libxdiffR",
+        "url": "https://github.com/JanMarvin/libxdiffR"
+    },
+    {
         "package": "readsas",
         "url": "https://github.com/JanMarvin/readsas"
     }
