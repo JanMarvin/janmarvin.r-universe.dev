@@ -8,6 +8,10 @@
         "url": "https://github.com/JanMarvin/msoc"
     },
     {
+        "package": "ovbars",
+        "url": "https://github.com/JanMarvin/ovbars"
+    },
+    {
         "package": "readspss",
         "url": "https://github.com/JanMarvin/readspss"
     },
