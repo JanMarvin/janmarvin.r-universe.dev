@@ -30,5 +30,10 @@
     {
         "package": "readsas",
         "url": "https://github.com/JanMarvin/readsas"
+    },
+    {
+        "package": "mschart",
+        "url": "https://github.com/JanMarvin/mschart",
+        "branch": "sec_y_axis"
     }
 ]
