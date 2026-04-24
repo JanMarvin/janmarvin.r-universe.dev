@@ -34,5 +34,9 @@
     {
         "package": "encharter",
         "url": "https://github.com/JanMarvin/encharter"
+    },
+    {
+        "package": "Rgtk4",
+        "url": "https://github.com/JanMarvin/Rgtk4"
     }
 ]
