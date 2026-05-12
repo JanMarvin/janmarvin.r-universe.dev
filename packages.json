@@ -34,5 +34,9 @@
     {
         "package": "encharter",
         "url": "https://github.com/JanMarvin/encharter"
+    },
+    {
+        "package": "spaghetti",
+        "url": "https://github.com/JanMarvin/spaghetti"
     }
 ]
