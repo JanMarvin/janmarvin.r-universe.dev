@@ -38,5 +38,9 @@
     {
         "package": "spaghetti",
         "url": "https://github.com/JanMarvin/spaghetti"
+    },
+    {
+        "package": "easeling",
+        "url": "https://github.com/JanMarvin/easeling"
     }
 ]
