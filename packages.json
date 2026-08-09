@@ -42,5 +42,9 @@
     {
         "package": "easeling",
         "url": "https://github.com/JanMarvin/easeling"
+    },
+    {
+        "package": "oxview",
+        "url": "https://github.com/JanMarvin/oxview"
     }
 ]
