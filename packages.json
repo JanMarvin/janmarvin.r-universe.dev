@@ -50,5 +50,10 @@
     {
         "package": "gtxlsx",
         "url": "https://github.com/JanMarvin/gtxlsx"
+    },
+    {
+        "package": "tdaR",
+        "url": "https://github.com/JanMarvin/TDA",
+        "subdir": "tdaR"
     }
 ]
